@@ -17,7 +17,6 @@ title: Speakeasy DIY
 email: underground.parkour.montreal@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Speakeasy is a DIY parkour park in Montreal, Canada
-url: "https://speakeasy-diy.org" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Build settings
 markdown: kramdown
